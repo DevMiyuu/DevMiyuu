@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Discord Bot ShinoCord.**
 
-- 📫 How to reach me **Discord: Miyu ♡#0002 ˖**
+- 📫 How to reach me **Discord: Tsukiko ♡#0006 ˖**
 
 - ⚡ Fun fact **I'm an alpha wolf!**
 
