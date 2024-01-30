@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmiyuu" alt="devmiyuu" /></a> </p>
 
-- 🔭 I’m currently working on **My Discord Bot ShinoCord.**
+- 🔭 I’m currently working on **My Discord Bot.**
 
-- 📫 How to reach me **Discord: Tsukiko ♡#0006 ˖**
+- 📫 How to reach me **Discord: empressofcurses#0 ˖**
 
-- ⚡ Fun fact **I'm an alpha wolf!**
+- ⚡ Fun fact **Nothing really.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
